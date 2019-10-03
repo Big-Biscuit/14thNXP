@@ -1,0 +1,17 @@
+.\objects\pid.o: ..\CODE\PID\PID.c
+.\objects\pid.o: ..\CODE\PID\PID.h
+.\objects\pid.o: ..\..\Libraries\drives\common\common.h
+.\objects\pid.o: D:\MDK5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\pid.o: D:\MDK5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\pid.o: ..\..\Libraries\drives\common\SEEKFREE_PRINTF.h
+.\objects\pid.o: ..\USER\inc\LPC546XX_config.h
+.\objects\pid.o: ..\..\Libraries\startup\DeviceSupport\LPC54606.h
+.\objects\pid.o: ..\..\Libraries\startup\CoreSupport\core_cm4.h
+.\objects\pid.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\pid.o: ..\..\Libraries\startup\CoreSupport\core_cmInstr.h
+.\objects\pid.o: ..\..\Libraries\startup\CoreSupport\core_cmFunc.h
+.\objects\pid.o: ..\..\Libraries\startup\CoreSupport\core_cm4_simd.h
+.\objects\pid.o: ..\..\Libraries\startup\DeviceSupport\system_LPC54606.h
+.\objects\pid.o: ..\..\Libraries\drives\common\misc.h
+.\objects\pid.o: ..\..\Libraries\drives\common\assert.h
+.\objects\pid.o: ..\CODE\Control\Control.h
